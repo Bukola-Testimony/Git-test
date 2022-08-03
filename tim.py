@@ -1,4 +1,5 @@
-# This is the master branch of repository Git-test on my local machine.
+# This is the service branch of repository Git-test on my local machine.
+# Will merge this to the master branch
 # Learning git is fun!
 def add(n1, n2):
     return n1 + n2
